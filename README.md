@@ -53,6 +53,7 @@ Here is a sample TOC(*wow! such cool!*) that is actually the TOC for this README
    - [SkipCBAM-AutoEncoder](#SkipCBAM-AutoEncoder)
    - [Self-Attention](#Self-Attention)
    - [AttentionNetwork](#AttentionNetwork)
+   - [ADGAN](#ADGAN)
 - [Train-on-custom-dataset](#Train-on-custom-dataset)
 - [Train](#Train)
 - [Test](#Test)
@@ -86,6 +87,12 @@ below image is self-Attention network , ref. from paper https://arxiv.org/pdf/18
 ### AttentionNetwork
 [(Back to menu)](#table-of-contents)
 ![CBAM](https://user-images.githubusercontent.com/58428559/212244779-9b757168-0ad9-4db2-8931-ddaaf776c38f.png)
+
+
+### ADGAN
+[(Back to menu)](#table-of-contents)
+
+Ongoing~~~~
 
 ### Train-on-custom-dataset
 [(Back to menu)](#table-of-contents)
